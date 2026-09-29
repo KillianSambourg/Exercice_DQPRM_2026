@@ -6,7 +6,7 @@ Travail collaboratif entre :
 
     - Killian Sambourg
     - Alban
-    -Abdallah MCHKOUR
+    - Abdallah MCHKOUR
 
 - nouvel ajoutfdsfdsd
 
